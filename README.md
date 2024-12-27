@@ -43,7 +43,7 @@ Steps are listed below to get this project up and running in your development en
 
 * Clone this repository in your target folder.
 ```
-git clone https://github.com/lavatech321/DemoWebShop_selenium_automation.git
+git clone https://github.com/Prajakta-Veer/AutomationTestingDemoWebShop.git
 ```
 
 * Open _demowebshop.testautomation_ folder in Eclipse by selecting "File -> Import -> Maven -> Existing Maven Project" and select _demowebshop.testautomation_ folder. 
