@@ -3,7 +3,8 @@
   <!--PROJECT TITLE AND DESCRIPTION -->
  <h1 align="center">Automation of DemoWebShop Web Application Using Selenium, TestNG and Cucumber</h1> 
 
-  
+  ![demo](https://github.com/user-attachments/assets/1cca1f2c-aa49-43b0-8bed-b8d25fac27c1)
+
    </p>
 </p>
 <hr>
