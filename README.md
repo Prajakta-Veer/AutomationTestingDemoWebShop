@@ -3,9 +3,7 @@
   <!--PROJECT TITLE AND DESCRIPTION -->
  <h1 align="center">Automation of DemoWebShop Web Application Using Selenium, TestNG and Cucumber</h1> 
 
-  <p align="center">
-    A web automation project to automate testing process of DemoWebShop E-commerce Web Application built using Selenium and TestNG in Java.
-    <br /><br/>
+  
    </p>
 </p>
 <hr>
