@@ -3,7 +3,7 @@
   <!--PROJECT TITLE AND DESCRIPTION -->
  <h1 align="center">Automation of DemoWebShop Web Application Using Selenium, TestNG and Cucumber</h1> 
 
-  ![demo](https://github.com/user-attachments/assets/1cca1f2c-aa49-43b0-8bed-b8d25fac27c1)
+ 
 
    </p>
 </p>
@@ -19,7 +19,7 @@ Automation of the [DemoWebShop E-commerce](https://demowebshop.tricentis.com/) w
 * Add Gift Card to Cart: The script selects a product, adds it to the cart, and validates that the cart updates correctly by verifying the product count and details.
 * Place Order: The automation flow proceeds to checkout, fills in the necessary shipping and payment details, and confirms the order.
 
-![Automation Demonstration](./demo.gif)
+ ![demo](https://github.com/user-attachments/assets/1cca1f2c-aa49-43b0-8bed-b8d25fac27c1)
 
 ### Built With
 * [Java 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) as programming language
